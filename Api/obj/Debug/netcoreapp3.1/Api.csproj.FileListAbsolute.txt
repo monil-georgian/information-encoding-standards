@@ -1,0 +1,74 @@
+C:\Users\manav\Documents\Authentication\Authentication\Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\manav\Documents\Authentication\Authentication\Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\manav\Documents\Authentication\Authentication\Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\manav\Documents\Authentication\Authentication\Api\bin\Debug\netcoreapp3.1\Api.exe
+C:\Users\manav\Documents\Authentication\Authentication\Api\bin\Debug\netcoreapp3.1\Api.deps.json
+C:\Users\manav\Documents\Authentication\Authentication\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.json
+C:\Users\manav\Documents\Authentication\Authentication\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.dev.json
+C:\Users\manav\Documents\Authentication\Authentication\Api\bin\Debug\netcoreapp3.1\Api.dll
+C:\Users\manav\Documents\Authentication\Authentication\Api\bin\Debug\netcoreapp3.1\Api.pdb
+C:\Users\manav\Documents\Authentication\Authentication\Api\bin\Debug\netcoreapp3.1\Api.Views.dll
+C:\Users\manav\Documents\Authentication\Authentication\Api\bin\Debug\netcoreapp3.1\Api.Views.pdb
+C:\Users\manav\Documents\Authentication\Authentication\Api\obj\Debug\netcoreapp3.1\Api.csprojAssemblyReference.cache
+C:\Users\manav\Documents\Authentication\Authentication\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfoInputs.cache
+C:\Users\manav\Documents\Authentication\Authentication\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfo.cs
+C:\Users\manav\Documents\Authentication\Authentication\Api\obj\Debug\netcoreapp3.1\Api.csproj.CoreCompileInputs.cache
+C:\Users\manav\Documents\Authentication\Authentication\Api\obj\Debug\netcoreapp3.1\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\manav\Documents\Authentication\Authentication\Api\obj\Debug\netcoreapp3.1\Api.RazorAssemblyInfo.cache
+C:\Users\manav\Documents\Authentication\Authentication\Api\obj\Debug\netcoreapp3.1\Api.RazorAssemblyInfo.cs
+C:\Users\manav\Documents\Authentication\Authentication\Api\obj\Debug\netcoreapp3.1\Api.TagHelpers.input.cache
+C:\Users\manav\Documents\Authentication\Authentication\Api\obj\Debug\netcoreapp3.1\Api.TagHelpers.output.cache
+C:\Users\manav\Documents\Authentication\Authentication\Api\obj\Debug\netcoreapp3.1\Api.RazorCoreGenerate.cache
+C:\Users\manav\Documents\Authentication\Authentication\Api\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\manav\Documents\Authentication\Authentication\Api\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\manav\Documents\Authentication\Authentication\Api\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\manav\Documents\Authentication\Authentication\Api\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\manav\Documents\Authentication\Authentication\Api\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\manav\Documents\Authentication\Authentication\Api\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\manav\Documents\Authentication\Authentication\Api\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\manav\Documents\Authentication\Authentication\Api\obj\Debug\netcoreapp3.1\Api.RazorTargetAssemblyInfo.cache
+C:\Users\manav\Documents\Authentication\Authentication\Api\obj\Debug\netcoreapp3.1\Api.RazorTargetAssemblyInfo.cs
+C:\Users\manav\Documents\Authentication\Authentication\Api\obj\Debug\netcoreapp3.1\Api.Views.pdb
+C:\Users\manav\Documents\Authentication\Authentication\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.Manifest.cache
+C:\Users\manav\Documents\Authentication\Authentication\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.xml
+C:\Users\manav\Documents\Authentication\Authentication\Api\obj\Debug\netcoreapp3.1\Api.dll
+C:\Users\manav\Documents\Authentication\Authentication\Api\obj\Debug\netcoreapp3.1\Api.pdb
+C:\Users\manav\Documents\Authentication\Authentication\Api\obj\Debug\netcoreapp3.1\Api.genruntimeconfig.cache
+C:\Users\manav\Documents\Authentication\Authentication\Api\obj\Debug\netcoreapp3.1\Api.csproj.CopyComplete
+D:\Georgian College\BDAT 1001 - Information Encoding Standards\Assignments\Final\Authentication\Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Georgian College\BDAT 1001 - Information Encoding Standards\Assignments\Final\Authentication\Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Georgian College\BDAT 1001 - Information Encoding Standards\Assignments\Final\Authentication\Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Georgian College\BDAT 1001 - Information Encoding Standards\Assignments\Final\Authentication\Api\bin\Debug\netcoreapp3.1\Api.exe
+D:\Georgian College\BDAT 1001 - Information Encoding Standards\Assignments\Final\Authentication\Api\bin\Debug\netcoreapp3.1\Api.deps.json
+D:\Georgian College\BDAT 1001 - Information Encoding Standards\Assignments\Final\Authentication\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.json
+D:\Georgian College\BDAT 1001 - Information Encoding Standards\Assignments\Final\Authentication\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.dev.json
+D:\Georgian College\BDAT 1001 - Information Encoding Standards\Assignments\Final\Authentication\Api\bin\Debug\netcoreapp3.1\Api.dll
+D:\Georgian College\BDAT 1001 - Information Encoding Standards\Assignments\Final\Authentication\Api\bin\Debug\netcoreapp3.1\Api.pdb
+D:\Georgian College\BDAT 1001 - Information Encoding Standards\Assignments\Final\Authentication\Api\bin\Debug\netcoreapp3.1\Api.Views.dll
+D:\Georgian College\BDAT 1001 - Information Encoding Standards\Assignments\Final\Authentication\Api\bin\Debug\netcoreapp3.1\Api.Views.pdb
+D:\Georgian College\BDAT 1001 - Information Encoding Standards\Assignments\Final\Authentication\Api\obj\Debug\netcoreapp3.1\Api.csprojAssemblyReference.cache
+D:\Georgian College\BDAT 1001 - Information Encoding Standards\Assignments\Final\Authentication\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfoInputs.cache
+D:\Georgian College\BDAT 1001 - Information Encoding Standards\Assignments\Final\Authentication\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfo.cs
+D:\Georgian College\BDAT 1001 - Information Encoding Standards\Assignments\Final\Authentication\Api\obj\Debug\netcoreapp3.1\Api.csproj.CoreCompileInputs.cache
+D:\Georgian College\BDAT 1001 - Information Encoding Standards\Assignments\Final\Authentication\Api\obj\Debug\netcoreapp3.1\Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Georgian College\BDAT 1001 - Information Encoding Standards\Assignments\Final\Authentication\Api\obj\Debug\netcoreapp3.1\Api.RazorAssemblyInfo.cache
+D:\Georgian College\BDAT 1001 - Information Encoding Standards\Assignments\Final\Authentication\Api\obj\Debug\netcoreapp3.1\Api.RazorAssemblyInfo.cs
+D:\Georgian College\BDAT 1001 - Information Encoding Standards\Assignments\Final\Authentication\Api\obj\Debug\netcoreapp3.1\Api.TagHelpers.input.cache
+D:\Georgian College\BDAT 1001 - Information Encoding Standards\Assignments\Final\Authentication\Api\obj\Debug\netcoreapp3.1\Api.TagHelpers.output.cache
+D:\Georgian College\BDAT 1001 - Information Encoding Standards\Assignments\Final\Authentication\Api\obj\Debug\netcoreapp3.1\Api.RazorCoreGenerate.cache
+D:\Georgian College\BDAT 1001 - Information Encoding Standards\Assignments\Final\Authentication\Api\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Georgian College\BDAT 1001 - Information Encoding Standards\Assignments\Final\Authentication\Api\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Georgian College\BDAT 1001 - Information Encoding Standards\Assignments\Final\Authentication\Api\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Georgian College\BDAT 1001 - Information Encoding Standards\Assignments\Final\Authentication\Api\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Georgian College\BDAT 1001 - Information Encoding Standards\Assignments\Final\Authentication\Api\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Georgian College\BDAT 1001 - Information Encoding Standards\Assignments\Final\Authentication\Api\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Georgian College\BDAT 1001 - Information Encoding Standards\Assignments\Final\Authentication\Api\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Georgian College\BDAT 1001 - Information Encoding Standards\Assignments\Final\Authentication\Api\obj\Debug\netcoreapp3.1\Api.RazorTargetAssemblyInfo.cache
+D:\Georgian College\BDAT 1001 - Information Encoding Standards\Assignments\Final\Authentication\Api\obj\Debug\netcoreapp3.1\Api.RazorTargetAssemblyInfo.cs
+D:\Georgian College\BDAT 1001 - Information Encoding Standards\Assignments\Final\Authentication\Api\obj\Debug\netcoreapp3.1\Api.Views.pdb
+D:\Georgian College\BDAT 1001 - Information Encoding Standards\Assignments\Final\Authentication\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.Manifest.cache
+D:\Georgian College\BDAT 1001 - Information Encoding Standards\Assignments\Final\Authentication\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.xml
+D:\Georgian College\BDAT 1001 - Information Encoding Standards\Assignments\Final\Authentication\Api\obj\Debug\netcoreapp3.1\Api.dll
+D:\Georgian College\BDAT 1001 - Information Encoding Standards\Assignments\Final\Authentication\Api\obj\Debug\netcoreapp3.1\Api.pdb
+D:\Georgian College\BDAT 1001 - Information Encoding Standards\Assignments\Final\Authentication\Api\obj\Debug\netcoreapp3.1\Api.genruntimeconfig.cache
+D:\Georgian College\BDAT 1001 - Information Encoding Standards\Assignments\Final\Authentication\Api\obj\Debug\netcoreapp3.1\Api.csproj.CopyComplete
